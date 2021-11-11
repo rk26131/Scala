@@ -4,7 +4,7 @@ object ForLoopExample {
     for (day <- dayofweeklist){
       print(day+"\n")
     }
-    print("---------While loop---------")
+    print("---------While looop---------")
     var x=0
     while(x<dayofweeklist.size-1){
       print(dayofweeklist(x)+"\n")
